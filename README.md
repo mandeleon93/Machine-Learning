@@ -1,1 +1,1 @@
-
+This repository contains a collection of functions I created over the course of my MS in Data Science to streamline machine learning pipelines. Includes a simple auto classifier and regressor, tools for streamlining the data cleaning process, and dimensionality reduction.
